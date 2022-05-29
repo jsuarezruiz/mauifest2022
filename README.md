@@ -1,6 +1,6 @@
 # MauiFest 2022
 
-**MauiFest** 2022 es un evento de comunidad online y gratuito para celebrar el **lanzamiento de .NET MAUI**. Será un evento con varias sesiones técnicas relacionadas con el desarrollo de aplicaciones multiplataforma con .NET MAUI.
+**MauiFest** 2022 es un evento de comunidad online y gratuito para celebrar el **lanzamiento de .NET MAUI**. El proximo **Miércoles 08 de Junio** tenemos un evento con varias sesiones técnicas relacionadas con el desarrollo de aplicaciones multiplataforma con .NET MAUI.
 
 ![MauiFest](images/mauifest.png)
 
@@ -27,7 +27,7 @@ _NOTA: [GMT+2](https://time.is/GMT+2)_
 
 #### [English version]
 
-**MauiFest** 2022 is a free online community event to celebrate the **launch of .NET MAUI**. It will be an event with several technical sessions related to the development of cross-platform applications with .NET MAUI.
+**MauiFest** 2022 is a free online community event to celebrate the **launch of .NET MAUI**. Next **Wednesday June 08** we will have an event with several technical sessions related to the development of cross-platform applications with .NET MAUI.
 
 ## [Tickets](https://www.eventbrite.es/e/entradas-mauifest-2022-312817945897)
 
