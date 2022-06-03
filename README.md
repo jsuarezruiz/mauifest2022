@@ -25,7 +25,7 @@ _NOTA: [GMT+2](https://time.is/GMT+2)_
 * 16:35h - 17:15h - Código de plataforma en MAUI por [Jorge Diego Crespo](https://twitter.com/jorgedcrespo) [Español]
 * 17:20h - 18:00h - The various ways to customize your controls por [Pedro Jesus](https://twitter.com/pj_souz) [Inglés]
 * 18:05h - 18:45h - Integrating Azure AD B2C into your MAUI App por [Cesar Jesus Angulo](https://twitter.com/jesulink2514) [Español]
-* 19:50h - 19:30h - How I Made a Native App for Windows and Mac in 2 Weeks With MAUI por [Igal Flegmann](https://twitter.com/igal_fs) [Inglés]
+* 18:50h - 19:30h - How I Made a Native App for Windows and Mac in 2 Weeks With MAUI por [Igal Flegmann](https://twitter.com/igal_fs) [Inglés]
 * 19:35h - 20:15h - Updating to Prism for .NET MAUI por [Dan Siegel](https://twitter.com/DanJSiegel) [Inglés]
 
 
@@ -52,5 +52,5 @@ _NOTE: [GMT+2](https://time.is/GMT+2)_
 * 16:35h - 17:15h - Código de plataforma en MAUI por [Jorge Diego Crespo](https://twitter.com/jorgedcrespo) [Spanish]
 * 17:20h - 18:00h - The various ways to customize your controls by [Pedro Jesus](https://twitter.com/pj_souz) [English]
 * 18:05h - 18:45h - Integrating Azure AD B2C into your MAUI App by [Cesar Jesus Angulo](https://twitter.com/jesulink2514) [Spanish]
-* 19:50h - 19:30h - How I Made a Native App for Windows and Mac in 2 Weeks With MAUI by [Igal Flegmann](https://twitter.com/igal_fs) [English]
+* 18:50h - 19:30h - How I Made a Native App for Windows and Mac in 2 Weeks With MAUI by [Igal Flegmann](https://twitter.com/igal_fs) [English]
 * 19:35h - 20:15h - Updating to Prism for .NET MAUI by [Dan Siegel](https://twitter.com/DanJSiegel) [English]
