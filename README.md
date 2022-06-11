@@ -28,6 +28,13 @@ _NOTA: [GMT+2](https://time.is/GMT+2)_
 * 18:50h - 19:30h - How I Made a Native App for Windows and Mac in 2 Weeks With MAUI por [Igal Flegmann](https://twitter.com/igal_fs) [Inglés]
 * 19:35h - 20:15h - Updating to Prism for .NET MAUI por [Dan Siegel](https://twitter.com/DanJSiegel) [Inglés]
 
+## Más información
+
+A continuación, puedes encontrar enlaces a diferentes repositorios con los ejemplos mostrados en las sesiones.
+
+* https://github.com/jorgediegocrespo/MauiFest
+* https://github.com/pictos/MFCC
+* https://github.com/dansiegel/MauiFest2022
 
 #### [English version]
 
@@ -48,9 +55,17 @@ Discover all the talks you can enjoy!
 _NOTE: [GMT+2](https://time.is/GMT+2)_
 
 * 15:30h - 15:45h - Keynote [English]
-* 15:50h - 16:30h - .NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps por [Gerald Versluis](https://twitter.com/jfversluis) [English]
-* 16:35h - 17:15h - Código de plataforma en MAUI por [Jorge Diego Crespo](https://twitter.com/jorgedcrespo) [Spanish]
+* 15:50h - 16:30h - .NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps by [Gerald Versluis](https://twitter.com/jfversluis) [English]
+* 16:35h - 17:15h - Código de plataforma en MAUI by [Jorge Diego Crespo](https://twitter.com/jorgedcrespo) [Spanish]
 * 17:20h - 18:00h - The various ways to customize your controls by [Pedro Jesus](https://twitter.com/pj_souz) [English]
 * 18:05h - 18:45h - Integrating Azure AD B2C into your MAUI App by [Cesar Jesus Angulo](https://twitter.com/jesulink2514) [Spanish]
 * 18:50h - 19:30h - How I Made a Native App for Windows and Mac in 2 Weeks With MAUI by [Igal Flegmann](https://twitter.com/igal_fs) [English]
 * 19:35h - 20:15h - Updating to Prism for .NET MAUI by [Dan Siegel](https://twitter.com/DanJSiegel) [English]
+
+## More information
+
+Below, you can find links to different repositories with the examples shown in the sessions.
+
+* https://github.com/jorgediegocrespo/MauiFest
+* https://github.com/pictos/MFCC
+* https://github.com/dansiegel/MauiFest2022
